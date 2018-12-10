@@ -14,6 +14,12 @@ good thing is, it makes excellent blog posts like this appear. https://www.datai
 So be sure to search twitter for conference # afterwards too and if you are lucky enough to go to one, share your notes. 
 I like adding mine to #sketchnote https://twitter.com/SketchnoteArmy
 
+Weekly Data challenges: 
+These are a good way to build up your confidence and learn from others. Winners are always very generous, sharing their work around/hacks and so it's always worth getting in contact. 
+MakeOverMonday - TABLEAU https://www.makeovermonday.co.uk/ as the name suggests a data set in put up on a Monday and you have until Wednesday to join that week's comp, but you can always use previous challenges to practice. 
+Kaggle - owned by Google, they run regular competitions, the big prize is often a job as headhunters frequently trawl the site https://www.kaggle.com/challenge-yourself
+DataKind - https://www.datakind.org/chapters/datakind-uk data enthusiasts coming together to help social enterprises/charities to solve their problems.
+London Data Store https://data.london.gov.uk/ -  not a weekly challenge as such but a collection of data the Mayor of LDN has opened up for analysis.
 
 Courses, distance:
 This is a super list of distance courses (mainly free that David Venturi [https://medium.freecodecamp.org/@davidventuri]
@@ -30,7 +36,6 @@ https://www.reddit.com/r/datascience btw Reddit is packed full of good pointers 
 Podcast List
 
 The following are audio podcasts that are either directly relevant or have multiple episodes that are relevant to Data Science.
-
 
 * General Data Science
     * SuperDataScience - https://www.superdatascience.com/podcast/
